@@ -7,6 +7,7 @@ nkf-*
 *.o
 *.bad
 *.swp
+.codex
 NKF.mod/Makefile
 NKF.mod/NKF.bs
 NKF.mod/NKF.c
@@ -17,3 +18,4 @@ NKF.mod/MYMETA.yml
 NKF.python2/build/
 NKF.python3/build/
 NKF.rust/target/
+
